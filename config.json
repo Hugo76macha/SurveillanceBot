@@ -1,0 +1,6 @@
+{
+  "token": "Le token de ton bots", 
+  "Servers": "serveur id",
+  "Channels": "id de salons", 
+  "bots": ["Id du bot 1","Id du bot 2"]
+} 
