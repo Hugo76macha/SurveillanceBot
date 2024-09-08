@@ -21,7 +21,7 @@ Assurez-vous que les IDs des bots et le salon de notification sont correctement 
 
 ## 📜 License
 
-Ce projet est sous la [License MIT](LICENSE).
+Ce projet est sous la License MIT
 
 ## 📬 Contact
 
